@@ -1,1 +1,5 @@
-Isso é um teste do git
+Esse é o novo código
+
+<?php
+echo "Bom dia!";
+>
